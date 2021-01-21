@@ -13,3 +13,4 @@ To Verify the OTP
 
 http://127.0.0.1:8000/mobile_auth/<phone>/
 In the Json body fill in the OTP recieved from the above endpoint.
+
